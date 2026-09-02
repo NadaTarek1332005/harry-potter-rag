@@ -142,7 +142,6 @@ http://127.0.0.1:8000/docs
 
 ![Retrieval Sirius Black](https://github.com/NadaTarek1332005/harry-potter-rag/blob/b5713323347e68c84dd0bb8015c98984bf90d12f/Harry-Potter-RAG/screenshots/retrieval-sirius-black.jpg)
 
-
 ### Retrieval Example 2 - Horcrux
 
 ![Retrieval Horcrux](https://github.com/NadaTarek1332005/harry-potter-rag/blob/355f95515005232687eb87da86a7e17ed611cce2/Harry-Potter-RAG/screenshots/retrieval-horcrux.jpg)
@@ -153,7 +152,11 @@ http://127.0.0.1:8000/docs
 
 ### Off-topic Route
 
-![Off-topic Routeopic-route.jpg
+![Off-topic Route](https://github.com/NadaTarek1332005/harry-potter-rag/blob/d3f46d702d9560749f67546e6bc569b9142050e3/Harry-Potter-RAG/screenshots/off-topic-route.jpg)
+
+### Chitchat Route
+
+![Chitchat Route](https://github.com/NadaTarek1332005/harry-potter-rag/blob/d3f46d702d9560749f67546e6bc569b9142050e3/Harry-Potter-RAG/screenshots/chitchat-route.jpg)
 
 ## Author
 
