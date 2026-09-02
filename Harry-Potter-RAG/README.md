@@ -140,18 +140,19 @@ http://127.0.0.1:8000/docs
 
 ### Retrieval Example 1 - Horcrux
 
-screenshots/retrieval-horcrux.jpg
+![Retrieval Horrieval-horcrux.jpg
 
 ### Retrieval Example 2 - Sirius Black
 
-screenshots/retrieval-sirius-black.jpg
+![Retrshots/retrieval-sirius-black.jpg
 
 ### Retrieval Example 3 - Dark Forces
 
-screenshots/retrieval-dark-forces.jpg
+![Retrshots/retrieval-dark-forces.jpg
+
 ### Chitchat Route
 
-screenshots/chitchat-route.jpg
+![Chenshots/chitchat-route.jpg
 
 ### Off-topic Route
 
