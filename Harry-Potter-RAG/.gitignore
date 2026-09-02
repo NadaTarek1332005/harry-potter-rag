@@ -13,10 +13,7 @@ venv/
 .venv/
 env/
 
-# Data
-dataset/
-
-# Output files
+# Generated output
 output.md
 
 # VS Code
