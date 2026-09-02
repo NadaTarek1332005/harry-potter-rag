@@ -1,9 +1,17 @@
+# Environment variables
 .env
 
-output.md
+# Python
+pycache/
+*.py[cod]
 
-dataset/
-
-__pycache__/
-
+# Jupyter
 .ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
