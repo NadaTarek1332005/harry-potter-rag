@@ -138,11 +138,14 @@ http://127.0.0.1:8000/docs
 
 ## Screenshots
 
-### Retrieval Example 1 - Horcrux
+### Retrieval Example 1 - Sirius Black
 
-![Retrieval Horcrux](screenshots/retrieval-horcrux.jpgle 2 - Sirius Black
+![Retrieval Sirius Black](https://github.com/NadaTarek1332005/harry-potter-rag/blob/b5713323347e68c84dd0bb8015c98984bf90d12f/Harry-Potter-RAG/screenshots/retrieval-sirius-black.jpg)
 
-![Retrieval Sirius Black](screenshots/
+
+### Retrieval Example 2 - Horcrux
+
+![Retrieval Horcrux]
 
 ### Retrieval Example 3 - Dark Forces
 
