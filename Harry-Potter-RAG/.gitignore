@@ -13,8 +13,5 @@ venv/
 .venv/
 env/
 
-# Generated output
-output.md
-
 # VS Code
 .vscode/
