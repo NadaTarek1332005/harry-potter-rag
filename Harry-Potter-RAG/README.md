@@ -145,12 +145,11 @@ http://127.0.0.1:8000/docs
 
 ### Retrieval Example 2 - Horcrux
 
-![Retrieval Horcrux]
+![Retrieval Horcrux](https://github.com/NadaTarek1332005/harry-potter-rag/blob/355f95515005232687eb87da86a7e17ed611cce2/Harry-Potter-RAG/screenshots/retrieval-horcrux.jpg)
 
 ### Retrieval Example 3 - Dark Forces
 
-![Retrieval Dark Forces](screenshots/retrieval-dark-forces
-screenshots/chitchat-route.jpg
+![Retrieval Dark Forces](https://github.com/NadaTarek1332005/harry-potter-rag/blob/355f95515005232687eb87da86a7e17ed611cce2/Harry-Potter-RAG/screenshots/retrieval-dark-forces.jpg)
 
 ### Off-topic Route
 
