@@ -103,14 +103,15 @@ Example:
 ```env
 QDRANT_URL=
 QDRANT_API_KEY=
-QDRANT_COLLECTION=
+QDRANT_COLLECTION=harry_potter
 
 EMBEDDING_MODEL=intfloat/multilingual-e5-large
 
-GEMINI_MODEL=
+GEMINI_MODEL=gemini-3.1-flash-lite
+GEMINI_JUDGE=gemini-3.5-flash-lite
 GEMINI_API_KEY=
 
-GROQ_MODEL=
+GROQ_MODEL=openai/gpt-oss-120b
 GROQ_API_KEY=
 
 TOP_K=3
